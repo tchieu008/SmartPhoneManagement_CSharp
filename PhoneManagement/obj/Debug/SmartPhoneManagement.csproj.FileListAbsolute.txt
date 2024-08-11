@@ -1,0 +1,11 @@
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\SmartPhoneManagement.csproj.AssemblyReference.cache
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\SmartPhoneManagement.csproj.ResolveComReference.cache
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.SmartPhoneManagement.resources
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.Properties.Resources.resources
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\SmartPhoneManagement.csproj.GenerateResource.cache
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\SmartPhoneManagement.csproj.CoreCompileInputs.cache
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\bin\Debug\PhoneManagement.exe.config
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\bin\Debug\PhoneManagement.exe
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\bin\Debug\PhoneManagement.pdb
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.exe
+D:\SpaceToWork\SmartPhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.pdb
