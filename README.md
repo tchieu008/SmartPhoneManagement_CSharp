@@ -1,5 +1,3 @@
-Đây là dự án giúp cho bạn hiểu về cách thiết kế 1 giao diện quản lý điện thoại thông minh với các chức năng cơ bản (add, update, delete, close application). Cũng như biết cách tạo nút và tải dữ liệu cho chương trình từ file Excel hoặc SQL
-
 # PROJECT: Smart Phone Management Project Using C#.
 ## 1. Description.
 This project helps you understand how to design a smartphone management interface with basic functionalities (add, update, delete, close application). It also shows how to create buttons and load data for the program from Excel or SQL files.
