@@ -48,5 +48,19 @@ You will then see a design surface where you can drag and drop and name the obje
 - Add the EditControlShowing event in the DataGridView.
 - Write an additional method ColumnPrice_KeyPress (this is a method you will write yourself). This method will have two parameters: object sender and KeyPressEventArgs e, as it will be called when the user types in the EditControlShowing event in the DataGridView.
 ## 6. Implement the buttons.
-### 6.1. Implement the Add, Delete, and Edit buttons.
+### 6.1. Implement the Add, Delete, Edit, Update and Close application buttons.
+- Open the Form1.cs [Design] window and click on the Add, Delete, Edit, Update, and Close application buttons one by one. Then, enter the corresponding code for each event handler
+- Add button: <br>
+![Add](picReadme/btnAdd.png) <br>
+- Delete button:<br>
+![Delete](picReadme/btnDelete.png)<br>
+- Update button:<br>
+![Update](picReadme/btnUpdate.png) <br>
+- Close application button:
+![Close App](picReadme/btnClose.png) <br>
 ### 6.2. Perform database update operations.
+- When the user presses the 'Update To DataSource' button, all the data in the DataGridView will be transferred to Excel or SQL Server: <br>
+- Check the loadData variable. If it equals 1, update the Excel source; otherwise, update the SQL source.
+![UpdateSourceWithExcel](picReadme/writeDataToExcel.png) <br>
+![UpdateSourceWithSQL1](picReadme/writeDataToSQL1.png) <br>
+![UpdateSourceWithSQL2](picReadme/writeDataToSQL2.png) <br>
