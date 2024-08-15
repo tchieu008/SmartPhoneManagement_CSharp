@@ -56,7 +56,7 @@ You will then see a design surface where you can drag and drop and name the obje
 ![Delete](picReadme/btnDelete.png)<br>
 - Update button:<br>
 ![Update](picReadme/btnUpdate.png) <br>
-- Close application button:
+- Close application button: <br>
 ![Close App](picReadme/btnClose.png) <br>
 ### 6.2. Perform database update operations.
 - When the user presses the 'Update To DataSource' button, all the data in the DataGridView will be transferred to Excel or SQL Server: <br>
